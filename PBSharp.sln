@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PBSharp", "PBSharp\PBSharp.csproj", "{D2792756-2485-4A99-BCE3-ACD8064D0BEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PBSharp.Tests", "PBSharp.Tests\PBSharp.Tests.csproj", "{876035F0-CF92-4BEC-8DD4-509C262C424A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2792756-2485-4A99-BCE3-ACD8064D0BEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2792756-2485-4A99-BCE3-ACD8064D0BEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2792756-2485-4A99-BCE3-ACD8064D0BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2792756-2485-4A99-BCE3-ACD8064D0BEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{876035F0-CF92-4BEC-8DD4-509C262C424A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{876035F0-CF92-4BEC-8DD4-509C262C424A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{876035F0-CF92-4BEC-8DD4-509C262C424A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{876035F0-CF92-4BEC-8DD4-509C262C424A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
